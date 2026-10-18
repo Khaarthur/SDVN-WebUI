@@ -21,3 +21,4 @@ comfyui:
     style_models: style_models
     ipadapter-flux: ipadapter-flux
     animatediff_models: animatediff_models
+    qwen-tts: qwen-tts
